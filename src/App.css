@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  margin-top: 30px;
+}
+
+.Read {
+  width: 100vw; 
+  height: auto;
+  margin-left: 20px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.TableRead{
+  width: 100vw; 
+  height: auto;
+  margin-left: 20px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.Class{  
+  text-align: center;
+  width: 150px;
+}
+.Code{  
+  text-align: center;
+  width: 150px;
+}
+.Con{  
+  text-align: center;
+  width: 150px;
+}
+.Ac{  
+  text-align: center;
+  width: 150px;
+}
+.Welcome {
+  background-color: #6c6f72;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: gray;
+}
+.class{
+  text-align: center;
+}
+.code{
+  text-align: center;
+}
+.SchoolCode{
+  text-align: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
